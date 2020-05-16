@@ -5,7 +5,7 @@
 }
 
 body{
-  font-family: 'Lato', sans-serif;  
+  font-family: 'Balsamiq Sans', sans-serif;  
 }
 
 .row{
@@ -14,12 +14,12 @@ body{
 
 .menu-title{
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 75px;
 }
 
 .container{
  position: relative;
- top:60px;
+ top:30px;
  margin: 15px; 
 }
 
@@ -29,12 +29,12 @@ body{
   background-color:#999999;
   margin: 15px;
   padding: 25px;
-  border: 3px solid #000;
+  border: 1px solid #000; /*it would look more like the illustration if it was set to 3px tho*/
 }
 
 .item p{
-  margin-top: 18px;
-  text-align: justify;
+  margin-top: 25px;
+  text-align: left;
   font-size:100%;
 }
 
@@ -44,16 +44,17 @@ body{
   right: 0px;
   background: green; 
   padding: 6px 90px;
-  border-left: 2px solid #000;
-  border-bottom: 2px solid #000;
-}
+  border-left: 1px solid #000; /*similarly, it would look more like the mockup if it was set to 2px*/
+  border-bottom: 1px solid #000; /*same here*/
+  }
 
 #title-one {
-  background-color: #D59898;
+  background-color: #D59898; 
 } 
 
 #title-two{
   background-color: #C14543;
+  color: white;
 }
 
 #title-three{
