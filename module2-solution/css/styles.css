@@ -29,7 +29,7 @@ body{
   background-color:#999999;
   margin: 15px;
   padding: 25px;
-  border: 1px solid #000; /*it would look more like the illustration if it was set to 3px tho*/
+  border: 1px solid #000; 
 }
 
 .item p{
